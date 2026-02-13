@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamleshkumarr&label=Profile%20views&color=0e75b6&style=flat" alt="kamleshkumarr" /> </p>
 
-- 🌱 I’m currently learning **React and DSA**
+- 🌱 I’m currently learning **Django and AIML**
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **kamleshkumar448y@gmail.com**
 
