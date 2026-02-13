@@ -1,4 +1,4 @@
- ![MasterHead ](https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg) 
+ ![MasterHead ]
 
 <h1 align="center">Hi 👋, I'm Kamlesh kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
