@@ -69,7 +69,7 @@ Git | GitHub | VS Code | Intellij IDEA | Docker (Basic
 ## 🌐 Connect With Me
 
 * 🔗 LinkedIn: https://www.linkedin.com/in/kamlesh-kumar-77aa56284/
-* 💻 Portfolio: portfolio-three-nu-88.vercel.app
+* 💻 Portfolio: https://portfolio-three-nu-88.vercel.app/
 * 📧 Email: kamleshkumar448y@gmail.com
 
 ---
