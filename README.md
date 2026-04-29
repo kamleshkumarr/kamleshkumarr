@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kamlesh Kumar
 
-🚀 **Backend Developer | Python | Django | FastAPI | AI/LLM Enthusiast**
+🚀 **Backend Developer | Python | Django & MERN | FastAPI | AI/LLM Enthusiast**
 
 I’m a final-year B.Tech student passionate about building **scalable backend systems** and **AI-powered applications**. I focus on writing clean APIs, integrating modern AI tools, and deploying real-world solutions.
 
