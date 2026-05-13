@@ -1,85 +1,86 @@
 # 👋 Hi, I'm Kamlesh Kumar
 
-🚀 **Backend Developer | Python | Django & MERN | FastAPI | AI/LLM Enthusiast**
+🚀 Backend Developer | Python | Django | MERN Stack | AI/LLM Enthusiast
 
-I’m a final-year B.Tech student passionate about building **scalable backend systems** and **AI-powered applications**. I focus on writing clean APIs, integrating modern AI tools, and deploying real-world solutions.
+Final-year B.Tech student passionate about building scalable backend systems, AI-powered applications, and solving real-world problems using modern technologies.
 
 ---
 
-## 🧠 What I Do
+## 🧠 About Me
 
-* 🔹 Build REST APIs using **Django & FastAPI**
-* 🔹 Develop AI applications using **LangChain & Hugging Face**
-* 🔹 Work with databases like **PostgreSQL & MySQL**
-* 🔹 Create full-stack apps with modern web technologies
-* 🔹 Deploy applications on cloud platforms
+* 🔹 Backend Developer focused on scalable APIs & systems
+* 🔹 Strong in Data Structures & Algorithms
+* 🔹 Passionate about AI applications & modern web technologies
+* 🔹 Interested in Backend Engineering & Software Development roles
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:**
-Python | Java | C++ | JavaScript
+### 💻 Languages
 
-**Backend:**
-Django | FastAPI | REST APIs
+Python • Java • C++ • JavaScript
 
-**Frontend:**
-HTML | CSS | JavaScript | React (Basics)
+### ⚙️ Backend
 
-**Database:**
-PostgreSQL | MySQL | MongoDB
+Django • Node.js • Express.js • REST APIs • FastAPI
 
-**AI/ML:**
-LangChain | Hugging Face | RAG
+### 🎨 Frontend
 
-**Tools:**
-Git | GitHub | VS Code | Intellij IDEA | Docker (Basic
+HTML • CSS • JavaScript • React.js • Tailwind CSS
+
+### 🗄 Databases
+
+MongoDB • MySQL • PostgreSQL
+
+### 🧠 AI/ML
+
+LangChain • NLP • AI Chatbots
+
+### 🛠 Tools
+
+Git • GitHub • VS Code • IntelliJ IDEA
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🤖 AI Chatbot with Memory 
+### 🤖 AI Chatbot Web Application
 
-* Context-aware chatbot using LangChain
-* Integrated Hugging Face models
-* Built scalable backend with FastAPI
-* Stores chat history and embeddings
+* AI-powered chatbot with real-time conversations
+* Implemented chat history, sentiment analysis & text summarization
+* Backend logic built using Python & NLP frameworks
 
----
+### 🏠 Airbnb Clone (MERN Stack)
 
-###  Airbnb Clone (Full Stack)
-
-* Built a full-stack accommodation booking platform using MERN stack. 
-* Designed Mongoose schemas for users, properties, and reviews.
-* Implemented authentication and session management using  Passport.js. 
-* Ensured data validation and error handling using Joi middleware. 
+* Full-stack accommodation booking platform
+* Authentication using Passport.js
+* MongoDB database integration with validation using Joi
 
 ---
 
-### ⚙️ Backend API System
+## 🏆 Achievements
 
-* REST API with CRUD operations
-* Authentication & database integration
-* Built using Django + PostgreSQL
+* Solved 200+ DSA problems on LeetCode & GeeksforGeeks
+* Level 7/10 in problem solving on Coding Ninjas
+* Participated in Hackathons & real-world software projects
+
+---
+
+## 📜 Certifications
+
+* AWS Academy Cloud Foundations
+* AWS Academy Cloud Operations
+* Smart India Hackathon Participant
 
 ---
 
 ## 🌐 Connect With Me
 
-* 🔗 LinkedIn: https://www.linkedin.com/in/kamlesh-kumar-77aa56284/
-* 💻 Portfolio: https://portfolio-three-nu-88.vercel.app/
-* 📧 Email: kamleshkumar448y@gmail.com
+* LinkedIn: [linkedin.com/in/kamlesh-kumar-77aa56284](https://www.linkedin.com/in/kamlesh-kumar-77aa56284/)
+* Portfolio: [portfolio-three-nu-88.vercel.app](https://portfolio-three-nu-88.vercel.app/)
+* Email: [kamleshkumar448y@gmail.com](mailto:kamleshkumar448y@gmail.com)
 
 ---
 
-## 🎯 Current Focus
-
-* Building production-ready AI applications
-* Improving DSA & problem-solving
-* Preparing for Backend & SDE roles
-
----
-
-⭐ *Open to internship and full-time opportunities*
+⭐ Open to internships and full-time opportunities
